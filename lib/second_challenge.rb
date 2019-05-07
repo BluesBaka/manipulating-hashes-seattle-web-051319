@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
      keys = groceries.keys
-      keys.values
+      keys.value
 
 end
