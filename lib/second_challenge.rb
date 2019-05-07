@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-    groceries.keys
-
+     keys = groceries.keys
+      keys.values
 
 end
